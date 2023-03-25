@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ConsoleApp2": {
+      "commandName": "Project",
+      "commandLineArgs": "dars1",
+      "workingDirectory": "D:\\CCP"
+    }
+  }
+}
